@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/Acceptor.cc.o -c /home/xyk/mymuduo/Acceptor.cc",
+  "file": "/home/xyk/mymuduo/Acceptor.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/Buffer.cc.o -c /home/xyk/mymuduo/Buffer.cc",
+  "file": "/home/xyk/mymuduo/Buffer.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/Channel.cc.o -c /home/xyk/mymuduo/Channel.cc",
+  "file": "/home/xyk/mymuduo/Channel.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/CurrentThread.cc.o -c /home/xyk/mymuduo/CurrentThread.cc",
+  "file": "/home/xyk/mymuduo/CurrentThread.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/DefaultPoller.cc.o -c /home/xyk/mymuduo/DefaultPoller.cc",
+  "file": "/home/xyk/mymuduo/DefaultPoller.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/EPollPoller.cc.o -c /home/xyk/mymuduo/EPollPoller.cc",
+  "file": "/home/xyk/mymuduo/EPollPoller.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/EventLoop.cc.o -c /home/xyk/mymuduo/EventLoop.cc",
+  "file": "/home/xyk/mymuduo/EventLoop.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThread.cc.o -c /home/xyk/mymuduo/EventLoopThread.cc",
+  "file": "/home/xyk/mymuduo/EventLoopThread.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.cc.o -c /home/xyk/mymuduo/EventLoopThreadPool.cc",
+  "file": "/home/xyk/mymuduo/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/InetAddress.cc.o -c /home/xyk/mymuduo/InetAddress.cc",
+  "file": "/home/xyk/mymuduo/InetAddress.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/Poller.cc.o -c /home/xyk/mymuduo/Poller.cc",
+  "file": "/home/xyk/mymuduo/Poller.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/Socket.cc.o -c /home/xyk/mymuduo/Socket.cc",
+  "file": "/home/xyk/mymuduo/Socket.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/TcpConnection.cc.o -c /home/xyk/mymuduo/TcpConnection.cc",
+  "file": "/home/xyk/mymuduo/TcpConnection.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/TcpServer.cc.o -c /home/xyk/mymuduo/TcpServer.cc",
+  "file": "/home/xyk/mymuduo/TcpServer.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/Thread.cc.o -c /home/xyk/mymuduo/Thread.cc",
+  "file": "/home/xyk/mymuduo/Thread.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/Timestamp.cc.o -c /home/xyk/mymuduo/Timestamp.cc",
+  "file": "/home/xyk/mymuduo/Timestamp.cc"
+},
+{
+  "directory": "/home/xyk/mymuduo/build",
+  "command": "/usr/bin/c++ -Dmymuduo_EXPORTS   -g -fPIC -fPIC -o CMakeFiles/mymuduo.dir/logger.cc.o -c /home/xyk/mymuduo/logger.cc",
+  "file": "/home/xyk/mymuduo/logger.cc"
+}
+]
